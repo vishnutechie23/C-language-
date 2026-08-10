@@ -1,0 +1,8 @@
+The file details are :
+qwertyuiop
+1234567890 
+0987654321
+asdfghjkl
+zxcvbnm
+123454321123454321
+END OF FILE
